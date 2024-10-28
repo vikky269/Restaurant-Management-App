@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": "bfc5",
+      "name": "christus",
+      "password": "123456t",
+      "email": "Christusibhawagbe@gmail.com"
+    },
+    {
+      "id": "25e1",
+      "name": "christus",
+      "password": "123456t",
+      "email": "christusigbhabawe@gmail.com"
+    }
+  ],
+  "restaurant": []
+}
